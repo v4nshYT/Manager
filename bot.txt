@@ -1,0 +1,8 @@
+
+
+
+"ip":"v4armyJava.aternos.me"
+
+"port":"19083"
+
+"name":"Manager"
